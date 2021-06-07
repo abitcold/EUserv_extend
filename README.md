@@ -16,7 +16,7 @@ Really thanks EUserv provide us free IPv6 VPS for learning.
 1、Install Python3 and dependences
 
 ```bash
-#Install Python3
+#Install Python3 11
 apt install python3 python3-pip -y
 #Intstall dependences
 pip install requests beautifulsoup4
